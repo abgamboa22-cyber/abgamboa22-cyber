@@ -37,16 +37,16 @@ Welcome to my GitHub! I am currently participating in a Skillbridge program focu
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-### 🐍
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abgamboa22-cyber/abgamboa22-cyber/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abgamboa22-cyber/abgamboa22-cyber/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abgamboa22-cyber/abgamboa22-cyber/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abgamboa22-cyber&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abgamboa22-cyber&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+### 🐍
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abgamboa22-cyber/abgamboa22-cyber/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abgamboa22-cyber/abgamboa22-cyber/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abgamboa22-cyber/abgamboa22-cyber/output/github-contribution-grid-snake.svg">
+</picture>
