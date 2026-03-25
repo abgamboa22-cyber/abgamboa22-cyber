@@ -38,7 +38,6 @@ Welcome to my GitHub! I am currently participating in a Skillbridge program focu
 </a>
 
 ### 🐍
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abgamboa22-cyber/abgamboa22-cyber/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abgamboa22-cyber/abgamboa22-cyber/output/github-contribution-grid-snake.svg">
